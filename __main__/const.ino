@@ -1,0 +1,4 @@
+
+#define MODEL_ID "OGFS110"
+#define VERSION_NUMBER "V1.0.0"
+#define SENSOR_SENSIBILITY "0-10 (PPM)"
